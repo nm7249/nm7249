@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**nm7249/nm7249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/neha7249_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/neha-maurya-achiever) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:myidofsrm@gmail.com) 
@@ -24,8 +19,3 @@
 [![](https://visitcount.itsvg.in/api?id=nm7249&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
