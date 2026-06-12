@@ -102,12 +102,6 @@
 
 ---
 
-## ✨ Quote Of The Day
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
 <p align="center">
 ⭐ Thanks for visiting my profile!
 </p>
