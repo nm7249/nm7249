@@ -4,52 +4,60 @@
 
     <linearGradient id="flow" x1="0%" y1="0%" x2="100%" y2="0%">
 
-      <!-- Slowly moving gradient -->
-      <animate attributeName="x1"
-               values="0%;-10%;0%;10%;0%"
-               dur="24s"
-               repeatCount="indefinite"/>
+  <!-- Gentle floating -->
+  <animate attributeName="x1"
+           values="0%;4%;0%;-4%;0%"
+           dur="24s"
+           repeatCount="indefinite"/>
 
-      <animate attributeName="y1"
-               values="0%;5%;0%;-5%;0%"
-               dur="28s"
-               repeatCount="indefinite"/>
+  <animate attributeName="y1"
+           values="0%;3%;0%;-3%;0%"
+           dur="28s"
+           repeatCount="indefinite"/>
 
-      <animate attributeName="x2"
-               values="100%;110%;100%;90%;100%"
-               dur="24s"
-               repeatCount="indefinite"/>
+  <animate attributeName="x2"
+           values="100%;96%;100%;104%;100%"
+           dur="24s"
+           repeatCount="indefinite"/>
 
-      <animate attributeName="y2"
-               values="0%;-5%;0%;5%;0%"
-               dur="28s"
-               repeatCount="indefinite"/>
+  <animate attributeName="y2"
+           values="0%;-3%;0%;3%;0%"
+           dur="28s"
+           repeatCount="indefinite"/>
 
-      <!-- Left -->
-      <stop offset="0%" stop-color="#FBBF24">
-        <animate attributeName="stop-color"
-          values="#FBBF24;#FFD86B;#FBBF24"
-          dur="18s"
-          repeatCount="indefinite"/>
-      </stop>
+  <!-- Yellow -->
+  <stop offset="0%">
+    <animate attributeName="stop-color"
+      values="#FBBF24;#FFD54F;#FBBF24;#F59E0B;#FBBF24"
+      dur="18s"
+      repeatCount="indefinite"/>
+  </stop>
 
-      <!-- Center -->
-      <stop offset="50%" stop-color="#FB7185">
-        <animate attributeName="stop-color"
-          values="#FB7185;#F59EAE;#FB7185"
-          dur="20s"
-          repeatCount="indefinite"/>
-      </stop>
+  <!-- Orange -->
+  <stop offset="35%">
+    <animate attributeName="stop-color"
+      values="#FDBA74;#FB923C;#FDBA74"
+      dur="17s"
+      repeatCount="indefinite"/>
+  </stop>
 
-      <!-- Right -->
-      <stop offset="100%" stop-color="#14B8A6">
-        <animate attributeName="stop-color"
-          values="#14B8A6;#5EEAD4;#14B8A6"
-          dur="22s"
-          repeatCount="indefinite"/>
-      </stop>
+  <!-- Pink -->
+  <stop offset="65%">
+    <animate attributeName="stop-color"
+      values="#FB7185;#F43F5E;#FB7185"
+      dur="20s"
+      repeatCount="indefinite"/>
+  </stop>
 
-    </linearGradient>
+  <!-- Teal -->
+  <stop offset="100%">
+    <animate attributeName="stop-color"
+      values="#14B8A6;#0D9488;#14B8A6"
+      dur="22s"
+      repeatCount="indefinite"/>
+  </stop>
+
+</linearGradient>
 
   </defs>
 
