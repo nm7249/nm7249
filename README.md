@@ -97,8 +97,8 @@ I'm a **Computer Science graduate** from **SRM University, Chennai**, with hands
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=nm7249&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1a2e"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nm7249&layout=compact&theme=dracula&hide_border=true&bg_color=1a1a2e"/>
+<img height="165" src="https://github-stats-extended-omega-two.vercel.app/api?username=nm7249&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1a2e"/>
+<img height="165" src="https://github-stats-extended-omega-two.vercel.app/api/top-langs/?username=nm7249&layout=compact&theme=dracula&hide_border=true&bg_color=1a1a2e"/>
 
 <br/>
 
